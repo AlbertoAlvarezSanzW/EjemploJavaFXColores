@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" >
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+    </rowConstraints>
+    <children>
+        <Label alignment="CENTER" minHeight="125.0" minWidth="200.0" prefHeight="126.0" prefWidth="464.0" style="-fx-background-color: #98D5FF;" text="¡Enhorabuena! Te sabes los colorees" textFill="#fc0d0d" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+            <font>
+                <Font name="System Bold" size="25.0" />
+            </font>
+        </Label>
+    </children>
+</GridPane>
+
